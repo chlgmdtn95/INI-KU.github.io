@@ -49,6 +49,8 @@ description:
         line-height : 130%;
     }
  </style>
+
+ <!--------------------------------------------------------------------------------------------------->
  <!--
 박사학생 프로필 시작
  -->
@@ -59,56 +61,6 @@ description:
 
 
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이은헌.png">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이은헌</h4>
-        <div class="italic">
-            booksky@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Explainable artificial intelligence</li>
-            <li>Symbolic artificial intelligence</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/최승윤.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>최승윤</h4>
-        <div class="italic">
-            csyun213@gmail.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Machine Learning</li>
-            <li>Data Mining</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -212,33 +164,7 @@ description:
 <hr>
 <!--끝-->
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이웅기.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이웅기</h4>
-        <div class="italic">
-            codingchild@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Natural Language Processing</li>
-            <li>Learning Analytics</li>
-            <li>Knowledge Tracing</li>
-            <li>Generative AI in Education</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -265,6 +191,7 @@ description:
 </div>
 <hr>
 <!--끝-->
+
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -292,6 +219,145 @@ description:
 <hr>
 <!--끝-->
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이정진</h4>
+        <div class="italic">
+            wjdwls1013@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이창권</h4>
+        <div class="italic">
+            eckdrnjs@gmail.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>AI Convergence Education</li>
+            <li>Causal Machine Learning</li>
+            <li>Causal Decision Making</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>곽재효</h4>
+        <div class="italic">
+            kjrnny2@naver.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>Arif</h4>
+        <div class="italic">
+            arif.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김재욱.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>손영훈</h4>
+        <div class="italic">
+            YH.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+
+
+<!--------------------------------------------------------------------------------------------------->
 <!--
 석사생 프로필 시작
  -->    
@@ -301,77 +367,22 @@ description:
 <!--
 석사생 프로필 추가
  -->  
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이동건.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이동건</h4>
-        <div class="italic">
-            pocet25@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Reinforcement Learning</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김준구.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>김준구</h4>
-        <div class="italic">
-            antonio97k@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>NLP</li>
-            <li>Deep Learning</li>
-        </ul>
-    </div>
-</div>
-<!--끝-->
- <!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/독고준석.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>독고준석</h4>
-        <div class="italic">
-            flyj2911@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>AI</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
-</div>
 
+
+
+
+
+<!--------------------------------------------------------------------------------------------------->
+<!--
+학부연구생 프로필 시작
+ -->    
+     <div style="margin-top:40px; margin-bottom:20px;">
+        <h2> Undergraduate Students</h2>
+    </div>
+<!--
+학부연구생 프로필 추가
+ -->  
+
+
+<!--------------------------------------------------------------------------------------------------->
+ </div>
