@@ -165,32 +165,7 @@ description:
 <!--끝-->
 
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이상엽.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이상엽</h4>
-        <div class="italic">
-            yubii2@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Deep learning</li>
-            <li>Trustworthy AI</li>
-            <li>AI in Security</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
 
 <!--시작-->
 <div class="row main">
@@ -225,7 +200,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김재욱.jpg">
+                <img class="profile" src="/img/members/이정진.jpg">
             </div>
         </div>
     </div>
@@ -252,7 +227,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김재욱.jpg">
+                <img class="profile" src="/img/members/이창권.jpg">
             </div>
         </div>
     </div>
@@ -264,9 +239,9 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
+            <li>informatics Education</li>
             <li>AI Convergence Education</li>
             <li>Causal Machine Learning</li>
-            <li>Causal Decision Making</li>
         </ul>
     </div>
 </div>
@@ -279,7 +254,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김재욱.jpg">
+                <img class="profile" src="/img/members/곽재효.jpg">
             </div>
         </div>
     </div>
@@ -307,7 +282,33 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김재욱.jpg">
+                <img class="profile" src="/img/members/정문수.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>정문수</h4>
+        <div class="italic">
+            MS.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/arif.jpg">
             </div>
         </div>
     </div>
@@ -334,7 +335,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김재욱.jpg">
+                <img class="profile" src="/img/members/손영훈.jpg">
             </div>
         </div>
     </div>
