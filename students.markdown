@@ -227,7 +227,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이창권.jpg">
+                <img class="profile" src="/img/members/이창권.JPG">
             </div>
         </div>
     </div>
