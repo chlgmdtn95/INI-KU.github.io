@@ -434,7 +434,7 @@ description:
     </div>
     <div class = "margin-left"></div>
     <div class ="right">
-        <h4>배지영/h4>
+        <h4>배지영</h4>
         <div class="italic">
             jy.com
         </div>
