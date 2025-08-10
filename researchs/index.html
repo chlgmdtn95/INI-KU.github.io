@@ -12,6 +12,15 @@ background: '/img/AI.jpeg'
   in
   {{ post.date | date: '%B, %Y'}}
 </p>
+<!-- 디버그 출력 -->
+<small style="opacity:.6">
+  [debug] {{ post.relative_path }} |
+  title="{{ post.title }}" |
+  author="{{ post.author }}" |
+  journal="{{ post.journal }}" |
+  date="{{ post.date | date: '%Y-%m-%d' }}"
+</small>
+
 </article>
 
 <hr>
