@@ -239,7 +239,7 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>informatics Education</li>
+            <li>Computer Science Education</li>
             <li>AI Convergence Education</li>
             <li>Causal Machine Learning</li>
         </ul>
@@ -275,32 +275,6 @@ description:
 <hr>
 <!--끝-->
 
-
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/정문수.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>정문수</h4>
-        <div class="italic">
-            MS.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
 
 <!--시작-->
 <div class="row main">
@@ -355,6 +329,59 @@ description:
 <hr>
 <!--끝-->
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김수인.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>김수인</h4>
+        <div class="italic">
+            sy@.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/정문수.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>정문수</h4>
+        <div class="italic">
+            MS.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
 
 
 
@@ -369,7 +396,57 @@ description:
 석사생 프로필 추가
  -->  
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/최흥수.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>최흥수</h4>
+        <div class="italic">
+            hS.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/배지영.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>배지영/h4>
+        <div class="italic">
+            jy.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
 
 
 
