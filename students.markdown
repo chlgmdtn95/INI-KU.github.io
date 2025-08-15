@@ -318,7 +318,7 @@ description:
     <div class ="right">
         <h4>손영훈</h4>
         <div class="italic">
-            YH.com
+            wi619nd@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
@@ -386,13 +386,13 @@ description:
     <div class ="right">
         <h4>김수인</h4>
         <div class="italic">
-            sy@.com
+            kimsniu@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Applications of LLMs in education</li>
+            <li>AI education</li>
+            <li>Reinforcement learning</li>
         </ul>
     </div>
 </div>
