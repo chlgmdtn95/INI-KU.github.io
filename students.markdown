@@ -105,8 +105,9 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Value Alignment</li>
-            <li>AI Ethics</li>
+            <li>Trustworthy AI in Education</li>
+            <li>Fairness</li>
+            <li>Explainable AI</li>
         </ul>
     </div>
 </div>
@@ -212,9 +213,9 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>CS Education</li>
+            <li>Automated Evaluation</li>
+            <li>Knowledge Tracing for Programming</li>
         </ul>
     </div>
 </div>
@@ -288,14 +289,14 @@ description:
     </div>
     <div class = "margin-left"></div>
     <div class ="right">
-        <h4>Arif</h4>
+        <h4>Arif Luhur Pidekso</h4>
         <div class="italic">
-            arif.com
+            luhurpideksoarif@gmail.com
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Computer Education</li>
+            <li>AI Education</li>
         </ul>
     </div>
 </div>
@@ -329,32 +330,7 @@ description:
 <hr>
 <!--끝-->
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/김수인.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>김수인</h4>
-        <div class="italic">
-            sy@.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
 
 
 <!--시작-->
@@ -402,6 +378,33 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/김수인.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>김수인</h4>
+        <div class="italic">
+            sy@.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+            <li>xxxxxxxxxxxxxxxx</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
                 <img class="profile" src="/img/members/최흥수.jpg">
             </div>
         </div>
@@ -410,12 +413,13 @@ description:
     <div class ="right">
         <h4>최흥수</h4>
         <div class="italic">
-            hS.com
+            tizr2240@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>HCI</li>
+            <li>Machine Learning</li>
+            <li>CS education</li>
         </ul>
     </div>
 </div>

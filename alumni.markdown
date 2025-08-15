@@ -59,7 +59,7 @@ description:
         <h2>PH.D. ALUMNI</h2>
     </div>
 
-<!--시작-->
+<!--시작 
 <div class="row main">
     <div class = "margin-left"></div>
     <div class ="left">
@@ -71,7 +71,7 @@ description:
     </div>
     <div class = "margin-left"></div>
     <div class ="right">
-        <h4>Dongeun Sun</h4>
+        <h4>선동언</h4>
         <div class="italic">
             sunde41@korea.ac.kr
         </div>
@@ -82,7 +82,7 @@ description:
     </div>
 </div>
 <hr>
-<!--끝-->
+-->
 
 <!--시작-->
 <div class="row main">
@@ -96,15 +96,14 @@ description:
     </div>
     <div class = "margin-left"></div>
     <div class ="right">
-        <h4>Sungsoo Park</h4>
+        <h4>박성수</h4>
         <div class="italic">
-            littlesoo@kovi.com
+            littlepu@naver.com
         </div>
         <b>Research interests</b>
         <ul>
-            <li>CNN</li>
-            <li>3D Cad</li>
-            <li>VR</li>
+            <li>vision</li>
+            <li>3d graphics</li>
         </ul>
     </div>
 </div>
