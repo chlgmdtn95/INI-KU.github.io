@@ -132,7 +132,7 @@ description:
         <b>Research interests</b>
         <ul>
             <li>AI education</li>
-            <li>AI Literacyn</li>
+            <li>AI Literacy</li>
         </ul>
     </div>
 </div>
@@ -157,8 +157,8 @@ description:
         <b>Research interests</b>
         <ul>
             <li>K-12 Computer Science Education</li>
-            <li>K-12 AI Education, Constructionism</li>
-            <li>Creative Learning</li>
+            <li>K-12 AI Education</li>
+            <li>Constructionism</li>
         </ul>
     </div>
 </div>
