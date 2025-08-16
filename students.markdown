@@ -322,8 +322,8 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Deep Knowledge Tracing</li>
+            <li>AI assisted education</li>
         </ul>
     </div>
 </div>
@@ -347,12 +347,13 @@ description:
     <div class ="right">
         <h4>정문수</h4>
         <div class="italic">
-            MS.com
+            moons0827@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Small Language Models</li>
+            <li>AI-Enhanced Assessment (LLMs) in Education</li>
+            <li>Learning Analytics</li>
         </ul>
     </div>
 </div>

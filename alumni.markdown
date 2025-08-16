@@ -177,13 +177,13 @@ description:
     <div class ="right">
         <h4>이상엽</h4>
         <div class="italic">
-            yubii2@korea.ac.kr
+            yubii02@gmail.com
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Deep learning</li>
-            <li>Trustworthy AI</li>
-            <li>AI in Security</li>
+            <li>AI in Law Enforcement</li>
+            <li>Fairness in AI</li>
+            <li>AI and Legal Tech</li>
         </ul>
     </div>
 </div>
