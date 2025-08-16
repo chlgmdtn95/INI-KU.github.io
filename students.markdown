@@ -79,9 +79,9 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Learning Analytics</li>
-            <li>Deep Knowledge Tracing</li>
-            <li>Informatics Education</li>
+            <li>Representation Learning</li>
+            <li>Learner Modeling</li>
+            <li>Knowledge Tracing</li>
         </ul>
     </div>
 </div>
@@ -186,9 +186,9 @@ description:
         </div>
         <b>Research interests</b>
         <ul>
-            <li>Reinforcement Learning</li>
             <li>Generative Model</li>
             <li>Evolving Learning</li>
+            <li>Artificial General Intelligence</li>
         </ul>
     </div>
 </div>
@@ -433,7 +433,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/배지영.jpg">
+                <img class="profile" src="/img/members/배지영.JPG">
             </div>
         </div>
     </div>
@@ -441,12 +441,13 @@ description:
     <div class ="right">
         <h4>배지영</h4>
         <div class="italic">
-            jy.com
+            jy_bae@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Machine Learning</li>
+            <li>Natural Language Processing</li>
+            <li>AI Education</li>
         </ul>
     </div>
 </div>
