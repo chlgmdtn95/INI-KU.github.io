@@ -67,7 +67,7 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/박선우.png">
+                <img class="profile" src="/img/members/박선우.jpg">
             </div>
         </div>
     </div>
