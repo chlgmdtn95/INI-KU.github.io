@@ -263,13 +263,13 @@ description:
     <div class ="right">
         <h4>곽재효</h4>
         <div class="italic">
-            kjrnny2@naver.com
+            kjrnny2@korea.ac.kr
         </div>
         <b>Research interests</b>
         <ul>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
-            <li>xxxxxxxxxxxxxxxx</li>
+            <li>Computer Science Education</li>
+            <li>Visual Computing</li>
+            <li>Machine Learning</li>
         </ul>
     </div>
 </div>
