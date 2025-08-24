@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background: '/img/KUGIF.gif'
+# background: '/img/KUGIF.gif'
+background: '/img/inilab2.gif'
 ---
