@@ -4,5 +4,5 @@
 
 layout: home
 # background: '/img/KUGIF.gif'
-background: '/img/inilab2.gif'
+background: '/img/inilab3.gif'
 ---
