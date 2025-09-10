@@ -407,6 +407,34 @@ description:
     <div class ="left">
         <div class = "profile">
             <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이정한.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이정한</h4>
+        <div class="italic">
+            wjdgks786@gmail.com
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Machine Learning</li>
+            <li>Natural Language Processing</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
                 <img class="profile" src="/img/members/김수인.jpg">
             </div>
         </div>
