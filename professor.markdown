@@ -113,6 +113,14 @@ description:
                 <blockquote>1999 - 현재</blockquote>
                 <hr>
                 <!--구분선-->
+                교육부 정책자문위원회 위원/AI 미래교육 분과<br>
+                <blockquote>2026 - 현재</blockquote>
+                <hr>
+                <!--구분선-->
+                국가인공지능전략위원회 위원/과학 및 인재 분과<br>
+                <blockquote>2025 - 현재</blockquote>
+                <hr>
+                <!--구분선-->
                 고려대학교 정보창의교육연구소/소장<br>
                 <blockquote>2021 - 현재</blockquote>
                 <hr>

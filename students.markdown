@@ -113,31 +113,9 @@ description:
 </div>
 <hr>
 <!--끝-->
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/정기민.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>정기민</h4>
-        <div class="italic">
-            jkm0530@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>AI education</li>
-            <li>AI Literacy</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
+
+
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -390,6 +368,35 @@ description:
 
 
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이태영.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이태영</h4>
+        <div class="italic">
+            @korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+
 <!--------------------------------------------------------------------------------------------------->
 <!--
 석사생 프로필 시작
@@ -427,6 +434,33 @@ description:
 <hr>
 <!--끝-->
 
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/최흥수.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>최흥수</h4>
+        <div class="italic">
+            tizr2240@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>HCI</li>
+            <li>Machine Learning</li>
+            <li>CS education</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
 
 
 <!--시작-->
@@ -456,32 +490,7 @@ description:
 <hr>
 <!--끝-->
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/최흥수.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>최흥수</h4>
-        <div class="italic">
-            tizr2240@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>HCI</li>
-            <li>Machine Learning</li>
-            <li>CS education</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
 
 <!--시작-->
 <div class="row main">
@@ -510,7 +519,32 @@ description:
 <hr>
 <!--끝-->
 
-
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/송민혜.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>송민혜</h4>
+        <div class="italic">
+            @korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
 
 <!--------------------------------------------------------------------------------------------------->
 <!--

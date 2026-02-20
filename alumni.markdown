@@ -84,6 +84,93 @@ description:
 <hr>
 -->
 
+
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/정기민.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>정기민</h4>
+        <div class="italic">
+            jkm0530@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>AI education</li>
+            <li>AI Literacy</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이웅기.jpg">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이웅기</h4>
+        <div class="italic">
+            codingchild@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Natural Language Processing</li>
+            <li>Learning Analytics</li>
+            <li>Knowledge Tracing</li>
+            <li>Generative AI in Education</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
+
+<!--시작-->
+<div class="row main">
+    <div class = "margin-left"></div>
+    <div class ="left">
+        <div class = "profile">
+            <div class="profilebox" style="background: #BDBDBD;">
+                <img class="profile" src="/img/members/이은헌.png">
+            </div>
+        </div>
+    </div>
+    <div class = "margin-left"></div>
+    <div class ="right">
+        <h4>이은헌</h4>
+        <div class="italic">
+            booksky@korea.ac.kr
+        </div>
+        <b>Research interests</b>
+        <ul>
+            <li>Explainable artificial intelligence</li>
+            <li>Symbolic artificial intelligence</li>
+        </ul>
+    </div>
+</div>
+<hr>
+<!--끝-->
+
 <!--시작-->
 <div class="row main">
     <div class = "margin-left"></div>
@@ -163,88 +250,13 @@ description:
 <hr>
 <!--끝-->
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이상엽.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이상엽</h4>
-        <div class="italic">
-            yubii02@gmail.com
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>AI in Law Enforcement</li>
-            <li>Fairness in AI</li>
-            <li>AI and Legal Tech</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
 
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이은헌.png">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이은헌</h4>
-        <div class="italic">
-            booksky@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Explainable artificial intelligence</li>
-            <li>Symbolic artificial intelligence</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
 
 
-<!--시작-->
-<div class="row main">
-    <div class = "margin-left"></div>
-    <div class ="left">
-        <div class = "profile">
-            <div class="profilebox" style="background: #BDBDBD;">
-                <img class="profile" src="/img/members/이웅기.jpg">
-            </div>
-        </div>
-    </div>
-    <div class = "margin-left"></div>
-    <div class ="right">
-        <h4>이웅기</h4>
-        <div class="italic">
-            codingchild@korea.ac.kr
-        </div>
-        <b>Research interests</b>
-        <ul>
-            <li>Natural Language Processing</li>
-            <li>Learning Analytics</li>
-            <li>Knowledge Tracing</li>
-            <li>Generative AI in Education</li>
-        </ul>
-    </div>
-</div>
-<hr>
-<!--끝-->
+
+
+
 
 <!--------------------------------------------------------------------------------------------------->
 
