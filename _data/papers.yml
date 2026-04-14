@@ -1,0 +1,264 @@
+- title: "Evaluating LLMs for Police Decision-Making: A Framework Based on Police Action Scenarios"
+  date: 2026-01-24
+  journal: "the Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)"
+  author: "Sangyub Lee, Heedou Kim, Hyeoncheol Kim"
+
+- title: "KTCF: Actionable Recourse in Knowledge Tracing via Counterfactual Explanations for Education"
+  date: 2026-01-25
+  journal: "the Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)"
+  author: "Woojin Kim, Changkwon Lee, Hyeoncheol Kim"
+
+- title: "Development and Validation of an AI Literacy Diagnostic Tool for Middle School Students"
+  date: 2025-12-29
+  journal: "International Journal of Human Computer Interaction"
+  author: "Kimin Chung, Soohwan Kim, Jeongjin Lee, Changkwon Lee, Hyerim Noh, Yeonha Kwon, Hyeoncheol Kim"
+
+- title: "Explainable Machine Learning for Predicting Computational Thinking Proficiency in K-12 Students Using National-Level Data"
+  date: 2025-11-19
+  journal: "IEEE Access"
+  author: "Hyuna Noh, Hansung Kim, Hyeoncheol Kim"
+
+- title: "Acoustic Anomaly Detection for Propeller Crack Defects: A Drone-Based Surrogate Dataset for UAM"
+  date: 2025-11-12
+  journal: "IEEE Access"
+  author: "Juho Lee, Donghyun Yoon, Gu Moon Jeong, Hyeoncheol Kim"
+
+- title: "Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark"
+  date: 2025-11-10
+  journal: "CIKM '25: Proceedings of the 34th ACM International Conference on Information and Knowledge Management"
+  author: "Unggi Lee, Jaeyong Lee, Jiyeong Bae, Yeil Jeong, Junbo Koh, Gyeonggeon 'Boaz' Lee, Gunho Lee, Taekyung Ahn, Hyeoncheol Kim"
+
+- title: "A Comprehensive Survey and Taxonomy on Large Language Model-Based Knowledge Tracing"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Sunwoo Park, Hyeoncheol Kim"
+
+- title: "Two-Level Imbalance Mitigation (TLIM): A Dual-Strategy Approach for Multi-Class Error Classification in Programming Education"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Sunwoo Park, Hyeoncheol Kim"
+
+- title: "Echo-Teddy: Preliminary Design and Development of Large Language Model-based Social Robot for Autistic Students"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Unggi Lee, Hansung Kim, Juhong Eom, Hyeonseo Jeong, Seungyeon Lee, Gyuri Byun, Yunseo Lee, Minji Kang, Gospel Kim, Jihoi Na, Jewoong Moon, Hyeoncheol Kim"
+
+- title: "ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Dohee Kim, Unggi Lee, Sookbun Lee, Jiyeong Bae, Taekyung Ahn, Jaekwon Park, Gunho Lee, Hyeoncheol Kim"
+
+- title: "Gamified Team Programming in MUVEs: Effects on Student Engagement and Achievement"
+  date: 2025-06-01
+  journal: "Generative Systems and Intelligent Tutoring Systems"
+  author: "Yeonju Jang, Seongyune Choi, Heeseok Jung, Hyeoncheol Kim"
+
+- title: "LLaVA-Docent-V2: Improving Data Quality to Train Large Multimodal Models for Art Appreciation Education"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Unggi Lee, Yoorim Son, Jaeyoon Shin, Gyuri Byun, Yunseo Lee, Junbo Koh, Minji Jeon, Hyeoncheol Kim"
+
+- title: "Counterfactual Fairness Evaluation of Machine Learning Models on Educational Datasets"
+  date: 2025-06-01
+  journal: "International Conference on Intelligent Tutoring Systems (ITS)"
+  author: "Woojin Kim, Hyeoncheol Kim"
+
+- title: "Can we Use GPT-4 as a Mathematics Evaluator in Education?: Exploring the Efficacy and Limitation of LLM-based Automatic Assessment System for Open-ended Mathematics Question"
+  date: 2024-12-19
+  journal: "International Journal of Artificial Intelligence in Education"
+  author: "Unggi Lee, Youngin Kim, Sangyun Lee, Jaehyeon Park, Jin Mun, Eunseo Lee, Hyeoncheol Kim, Cheolil Lim, Yun Joo Yoo"
+
+- title: "LLaVa-Docent: Instruction Tuning with Multimodal Large Language Model to Support Art Appreciation Education"
+  date: 2024-12-09
+  journal: "Computers & Education, Artificial Intelligence"
+  author: "Unggi Lee, Minji Jeon, Yunseo Lee, Gyuri Byun, Yoorim Son, Jaeyoon Shin, Hongkyu Ko, Hyeoncheol Kim"
+
+- title: "러닝바이프롬프팅 : 생성형 AI 프롬프팅을 활용한 자기조절학습 전략 기반 프로그래밍 교육 모델"
+  date: 2024-12-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "이민정, 김현철"
+
+- title: "Developing an AI Literacy Diagnostic Tool for Elementary School Students"
+  date: 2024-11-11
+  journal: "Education and Information Technologies"
+  author: "Kimin Chung, Soohwan Kim, Yeonju Jang, Seongyune Choi, Hyeoncheol Kim"
+
+- title: "The impact of a large language model-based programming learning environment on students' motivation and programming ability"
+  date: 2024-11-11
+  journal: "Education and Information Technologies"
+  author: "Seongyune Choi, Hyeoncheol Kim"
+
+- title: "I see you: teacher analytics with GPT-4 vision-powered observational assessment"
+  date: 2024-10-16
+  journal: "Smart Learning Environments"
+  author: "Unggi Lee, Yeil Jeong, Junbo Koh, Gyuri Byun, Yunseo Lee, Hyunwoong Lee, Seunmin Eun, Jewoong Moon, Cheolil Lim, Hyeoncheol Kim"
+
+- title: "IT-Tuning: Parameter Efficient Information Token Tuning for Language Model"
+  date: 2024-08-01
+  journal: "Proceedings of the 9th Workshop on Representation Learning for NLP. Association for Computational Linguistics."
+  author: "Jungu Kim, Hyeoncheol Kim"
+
+- title: "TLBoost: 해석가능성을 높인 학습자 성취도 예측 모델"
+  date: 2024-07-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "박선우, 김현철"
+
+- title: "Semi-reward Function Problems in Reinforcement Learning"
+  date: 2024-07-01
+  journal: "CSEIT 2024"
+  author: "Dong-geon Lee, Hyeoncheol Kim"
+
+- title: "MonaCoBERT: Monotonic attention based ConvBERT for Knowledge Tracing"
+  date: 2024-06-01
+  journal: "International Conference on Intelligent Tutoring Systems 2024"
+  author: "Unggi Lee, Yonghyun Park, Yujin Kim, Seongyune Choi, Hyeoncheol Kim"
+
+- title: "Difficulty-Focused Contrastive Learning for Knowledge Tracing with a Large Language Model-Based Difficulty Prediction"
+  date: 2024-05-01
+  journal: "LREC-Coling 2024"
+  author: "Unggi Lee, Sungjun Yoon, Joon Seo Yun, Kyoungsoo Park, YoungHoon Jung, Damji Stratton, Hyeoncheol Kim"
+
+- title: "Can ChatGPT be a Debate Partner? Developing ChatGPT-based Application 'DEBO' for Debate Education, Findings and Limitations"
+  date: 2024-04-01
+  journal: "Educational Technology & Society"
+  author: "Unggi Lee, Yeil Jeong, Junbo Koh, Gyuri Byun, Yunseo Lee, Youngsun Hwang, Hyeoncheol Kim, Cheolil Lim"
+
+- title: "교육생태계 기반 초·중등 SW·AI 교육 지원 전략 연구"
+  date: 2024-01-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "곽소아, 장연주, 최승윤, 박선우, 김현철"
+
+- title: "Generative Agent for Teacher Training: Designing Educational Problem-Solving Simulations with Large Language Model-based Agents for Pre-Service Teachers"
+  date: 2023-12-01
+  journal: "NeurIPS'23 Workshop on Generative AI for Education (GAIED)"
+  author: "Unggi Lee, Sanghyeok Lee, Junbo Koh, Yeil Jeong, Haewon Jung, Gyuri Byun, Yunseo Lee, Jewoong Moon, Jieun Lim, Hyeoncheol Kim"
+
+- title: "일반 교원을 위한 인공지능 소양 프레임워크 개발"
+  date: 2023-11-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "정기민, 김수환, 김현철"
+
+- title: "Few-shot is enough: exploring ChatGPT prompt engineering method for automatic question generation in english education"
+  date: 2023-10-31
+  journal: "Education and Information Technologies"
+  author: "Unggi Lee, Haewon Jung, Younghoon Jeon, Younghoon Sohn, Wonhee Hwang, Jewoong Moon, Hyeoncheol Kim"
+
+- title: "Prompt Aloud!: Incorporating image-generative AI into STEAM class with learning analytics using prompt data"
+  date: 2023-09-18
+  journal: "Education and Information Technologies"
+  author: "Unggi Lee, Ariel Han, Jeongjin Lee, Eunseo Lee, Jiwon Kim, Hyeoncheol Kim, Cheolil Lim"
+
+- title: "프로그래밍 학습을 위한 LLM 기반 코드 리뷰 학습 환경 개발"
+  date: 2023-09-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "Seongyune Choi, Dong-geon Lee, Jungu Kim, Yeonju Jang, Hyeoncheol Kim"
+
+- title: "The SNS-based E-mentoring and Development of Computational Thinking for Undergraduate Students in an Online Course"
+  date: 2023-04-01
+  journal: "Educational Technology & Society"
+  author: "Yeonju Jang, Seongyune Choi, Seonghun Kim, Hyeoncheol Kim"
+
+- title: "Exploring factors influencing students' intention to use intelligent personal assistants for learning"
+  date: 2023-03-01
+  journal: "International Journal of Human-Computer Interaction"
+  author: "Seongyune Choi, Yeonju Jang, Hyeoncheol Kim"
+
+- title: "(ET&S)의 special issue 'technology computational thinking 를 활용한 development' 2022 The effect of team-based programming education using multiuser virtual environment on student engagement and achievement"
+  date: 2023-01-01
+  journal: "컴퓨터교육학회 학술대회"
+  author: "곽소아"
+
+- title: "초등 인공지능 교육에서 '생각에 대한 생각' 교육방법의 적용 연구"
+  date: 2023-01-01
+  journal: "한국컴퓨터교육학회논문지"
+  author: "신하은, 김현철"
+
+- title: "A Deep Learning Approach to Imputation of Dynamic Pupil Size Data and Prediction of ADHD"
+  date: 2022-12-01
+  journal: "International Journal on Artificial Intelligence Tools"
+  author: "Seongyune Choi, Yeonju Jang, Hyeoncheol Kim"
+
+- title: "Development and validation of an instrument to measure undergraduate students' attitudes toward the ethics of artificial intelligence (AT-EAI) and analysis of its difference by gender and experience of AI education"
+  date: 2022-05-18
+  journal: "Education and Information Technologies"
+  author: "Yeonju Jang, Seongyune Choi, Hyeoncheol Kim"
+
+- title: "초중등 학생을 위한 인공지능 윤리 교육 프로그램 개발 및 적용"
+  date: 2022-09-01
+  journal: "한국컴퓨터교육학회논문지"
+  author: "장연주, 최승윤, 조현기, 김현철"
+
+- title: "Practical early prediction of students' performance using machine learning and eXplainable AI"
+  date: 2022-06-01
+  journal: "Education and Information Technologies"
+  author: "Yeonju Jang, Seongyune Choi, Heeseok Jung, Hyeoncheol Kim"
+
+- title: "Influence of Pedagogical Beliefs and Perceived Trust on Teachers' Acceptance of Educational Artificial Intelligence Tools"
+  date: 2022-04-19
+  journal: "International Journal of Human-Computer Interaction"
+  author: "Seongyune Choi, Yeonju Jang, Hyeoncheol Kim"
+
+- title: "KPCR: Knowledge Graph Enhanced Personalized Course Recommendation"
+  date: 2022-03-19
+  journal: "AI 2021 (Advances in Artificial Intelligence)"
+  author: "Heeseok Jung, Yeonju Jang, Seonghun Kim, Hyeoncheol Kim"
+
+- title: "Feature-Based Interpretation of the Deep Neural Network"
+  date: 2021-11-03
+  journal: "Electronics"
+  author: "Eun-Hun Lee, Hyeoncheol Kim"
+
+- title: "FaceVAE: Generation of a 3D Geometric Object Using Variational Autoencoders"
+  date: 2021-11-14
+  journal: "Electronics"
+  author: "Sungsoo Park, Hyeoncheol Kim"
+
+- title: "3DPlanNet: Generating 3D Models from 2D Floor Plan Images Using Ensemble Methods"
+  date: 2021-11-09
+  journal: "Electronics"
+  author: "Sungsoo Park, Hyeoncheol Kim"
+
+- title: "Analyzing Teacher Competency with TPACK for K-12 AI Education"
+  date: 2021-06-01
+  journal: "KI (Künstliche Intelligenz)"
+  author: "Seonghun Kim, Yeonju Jang, Seongyune Choi, Woojin Kim, Heeseok Jung, Soohwan Kim, Hyeoncheol Kim"
+
+- title: "Learning Path Construction Using Reinforcement Learning and Bloom's Taxonomy"
+  date: 2021-07-01
+  journal: "International Conference on Intelligent Tutoring Systems"
+  author: "Seounghun Kim, Woojin Kim, Hyeoncheol Kim"
+
+- title: "DiKT: Dichotomous Knowledge Tracing"
+  date: 2021-06-07
+  journal: "International Conference on Intelligent Tutoring Systems"
+  author: "Seounghun Kim, Woojin Kim, Heeseok Jung, Hyeoncheol Kim"
+
+- title: "지식그래프 기반 맞춤형 강좌 추천"
+  date: 2021-08-13
+  journal: "한국컴퓨터교육학회"
+  author: "정희석, 장연주, 김성훈, 김현철"
+
+- title: "Student Knowledge Prediction for Teacher-Student Interaction"
+  date: 2021-05-18
+  journal: "The Thirty-Fifth AAAI Conference on Artificial Intelligence"
+  author: "Seonghun Kim, Woojin Kim, Yeonju Jang, Seongyune Choi, Heeseok Jung, Hyeoncheol Kim"
+
+- title: "Why and What to Teach: AI Curriculum for Elementary School"
+  date: 2021-05-18
+  journal: "The Thirty-Fifth AAAI Conference on Artificial Intelligence"
+  author: "Seonghun Kim, Yeonju Jang, Woojin Kim, Seongyune Choi, Heeseok Jung, Soohwan Kim, Hyeoncheol Kim"
+
+- title: "Uncertainty of Rules Extracted from Artificial Neural Networks"
+  date: 2021-05-12
+  journal: "Applied Artificial Intelligence"
+  author: "Hurnjoo Lee, Hyeoncheol Kim"
+
+- title: "초등 교사를 위한 인공지능 교육 프로그램 개발"
+  date: 2021-01-21
+  journal: "한국컴퓨터교육학회 학술대회"
+  author: "장연주, 최승윤, 강윤지, 김경상, 김원유, 김정남, 김학인, 손지원, 장병철, 김한성, 박광현, 전수진, 김현철"
+
+- title: "설명 가능한 AI, 학습 지원 시스템 개발"
+  date: 2021-01-01
+  journal: "컴퓨터교육학회 논문지"
+  author: "김성훈, 김우진, 장연주, 김현철"

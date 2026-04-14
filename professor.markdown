@@ -72,15 +72,17 @@ description:
 </style>
 <div class = "main">
     <div class = "left">
-        <h3>Hyeoncheol Kim</h3>
+        <h3>지도교수 : 김현철<br>(Prof. Kim, Hyeoncheol)</h3>
         <div class="italic">
-            Department of Computer Science & Engineering, Korea University<br><br>
+            Department of Computer Science & Engineering, Korea University<br>
+            고려대학교 정보대학 컴퓨터학과<br><br>
         </div>
         <div>
         <ul>
-            <li>Office : Aegineung Seng-hwal-kwan 317 317</li><br>
-            <li>E-mail : harrykim@korea.ac.kr</li><br>
-            <li>Phone : +82-2-3290-2393</li>
+            <li><strong>Office</strong>: 애기능생활관 317호</li>
+            <li><strong>E-mail</strong>: harrykim@korea.ac.kr</li>
+            <li><strong>Phone</strong>: 02-3290-2393</li>
+            <li><strong>Homepage</strong>: http://ini.korea.ac.kr</li>
         </ul>
         </div>
     </div>

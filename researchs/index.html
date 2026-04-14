@@ -4,42 +4,18 @@ title: Research (최근 5개년)
 background: '/img/AI.jpeg'
 ---
 
-{% for post in paginator.posts limit : 100 %}
-<article class="post-preview">
-  <h5 class="post-title">{{ post.title }}</h5>
-<p class="post-meta" style="font-size: 15px;">
-  {{ post.author }}, {{ post.journal }}
-  in
-  {{ post.date | date: '%B, %Y'}}
-</p>
-<!-- 디버그 출력 
-<small style="opacity:.6">
-  [debug] {{ post.relative_path }} |
-  title="{{ post.title }}" |
-  author="{{ post.author }}" |
-  journal="{{ post.journal }}" |
-  date="{{ post.date | date: '%Y-%m-%d' }}"
-</small>
--->
+{% assign sorted_papers = site.data.papers | sort: "date" | reverse %}
 
+{% for paper in sorted_papers %}
+<article class="post-preview">
+  <h5 class="post-title">{{ paper.title }}</h5>
+  <p class="post-meta" style="font-size: 15px;">
+    {{ paper.author }}, {{ paper.journal }}
+    in
+    {{ paper.date | date: '%B, %Y' }}
+  </p>
 </article>
 
 <hr>
 
 {% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-
-<div class="clearfix">
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Before<span class="d-none d-md-inline"> </span></a>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next<span class="d-none d-md-inline"></span> &rarr;</a>
-  {% endif %}
-</div>
-
-{% endif %}
