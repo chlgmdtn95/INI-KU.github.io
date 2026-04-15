@@ -2,10 +2,9 @@ title:              INI Lab
 email:              antonio97k@korea.ac.kr
 description:        Intelligence aNd Informatics Lab
 author:             INI Lab
-baseurl:            ""
+baseurl:            "https://chlgmdtn95.github.io/INI-KU.github.io/"
 
-#url:                "https://startbootstrap.github.io"
-url:                "https://chlgmdtn95.github.io/INI-KU.github.io/"
+url:                "https://startbootstrap.github.io"
 
 # Social Profiles
 twitter_username:   
