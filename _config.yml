@@ -2,7 +2,7 @@ title:              INI Lab
 email:              antonio97k@korea.ac.kr
 description:        Intelligence aNd Informatics Lab
 author:             INI Lab
-baseurl:            "/INI-KU.github.io/"
+baseurl:            ""
 
 url:                "ini.korea.ac.kr"
 
